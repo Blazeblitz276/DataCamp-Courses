@@ -16,7 +16,7 @@ This repository consists of all the courses and subsequent materials I have take
   - Grouped summary Statistics: .groupby(["col1","col2"])["feature"].agg(["stats1","stats2","stats3"]), Pivot Tables: .pivot_table(values="summary col", index = "groupby col",columns= "additional cols",fill_value= "value for missing relations", margins = True(enables mean display for col-row wise entries) ,aggfunc= ["stats function"])
 
 ## Course Material/exercises
-- 
+- [Pandas Data Manipulation Excercises](./Data_Manipulation_with_pandas/Data Manipulation with Pandas.ipynb)
 
 ## References
 - 
