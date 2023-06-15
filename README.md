@@ -4,6 +4,10 @@ This repository consists of all the courses and subsequent materials I have take
 
 ## Courses
 - [Understanding Data Science](https://app.datacamp.com/learn/courses/understanding-data-science)
+  - Basics of Data science work flow
+  - Data Collection and Storage
+  - Preparation, Exploration, and Visualization: Data Cleaning, ETL, EDA
+  - Experimentation and Prediction: A/B testing, ML concepts and ethics
 - [Introduction to ChatGPT](https://www.datacamp.com/courses/introduction-to-chatgpt)
 - [Data Manipulation with pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
   - Basics of Data Frames: .head(), .describe(), .tail(), .shape, .info(), .columns, .index, .values  
