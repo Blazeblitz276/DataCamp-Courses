@@ -13,6 +13,7 @@ This repository consists of all the courses and subsequent materials I have take
   - Basics of Data Frames: .head(), .describe(), .tail(), .shape, .info(), .columns, .index, .values  
   - Sorting and Subsetting of DF: using .sort_values(["col1", "col2"], ascending = ["T", "F"]), DF subsetting methods (DF[DF["colname"] ">,<,==" conditions]), adding new columns as a resultant of columnar arithmetic
   - Aggregating DF and Summary Statistics: .agg([funct1,funct2]), .mean(), .median(), .mode(), .cumsum(), .cummax(), .drop_duplicates(subset=["Basis_col1","Basis_col2"]), df["colname"].value_count(sort= "T",normalize="T")
+  - Grouped summary Statistics: .groupby(["col1","col2"])["feature"].agg(["stats1","stats2","stats3"]), Pivot Tables: .pivot_table(values="summary col", index = "groupby col",columns= "additional cols",fill_value= "value for missing relations", margins = True(enables mean display for col-row wise entries) ,aggfunc= ["stats function"])
 
 ## Course Material/exercises
 - 
