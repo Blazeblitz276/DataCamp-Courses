@@ -4,7 +4,7 @@ This repository consists of all the courses and subsequent materials I have take
 
 ## Courses
 - [Understanding Data Science](https://app.datacamp.com/learn/courses/understanding-data-science)
-  - Basics of Data science work flow
+  - Basics of Data science workflow
   - Data Collection and Storage
   - Preparation, Exploration, and Visualization: Data Cleaning, ETL, EDA
   - Experimentation and Prediction: A/B testing, ML concepts and ethics
